@@ -1,0 +1,19 @@
+// A global API-root
+export const API_BASE = 'https://jsonplaceholder.typicode.com';
+export const MONITOR_SESSION = true;
+export const CHECK_SESSION_INTEVAL = 30000;
+export const REVOKE_ACCESS_TOKEN_ON_SIGNOUT = true;
+export const  CLOCK_SKEW = 300;
+export const LOAD_USER_INFO = true;
+export const AUTHORITY = 'http://localhost:5000';
+export const CLIENT_ID = 'js';
+export const REDIRECT_URI = 'http://localhost:8080/';
+export const GRANT_TYPE = 'implicit';
+export const RESPONSE_TYPE = 'id_token token';
+export const POST_LOGOUT_REDIRECT_URI = 'http://localhost:8080/';
+export const ISSUER = 'http://localhost:5000';
+export const JWKS_URI = 'http://localhost:5000/.well-known/openid-configuration/jwks';
+export const END_SESSION_ENDPOINT = 'http://localhost:5000/connect/endsession';
+export const AUTHORIZATION_ENDPOINT = 'http://localhost:5000/connect/authorize';
+export const MOVIES_ENDPOINT = 'http://localhost:5001/movies';
+export const ACCESS_TOKEN_KEY = 'access_token';

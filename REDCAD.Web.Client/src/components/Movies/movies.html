@@ -1,0 +1,10 @@
+<transition xmlns:v-on="http://www.w3.org/1999/xhtml">
+<div class="movie">
+    <ul id="v-for-object" class="list">
+      <li v-for="value in movies">
+        {{ value }}
+      </li>
+    </ul>
+    <button class="btn btn-primary" v-on:click="logout()">Logout</button>
+  </div>
+</transition>

@@ -1,0 +1,11 @@
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\bin\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.deps.json
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\bin\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.runtimeconfig.json
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\bin\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.runtimeconfig.dev.json
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\bin\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.dll
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\bin\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.pdb
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\obj\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.csprojResolveAssemblyReference.cache
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\obj\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.csproj.CoreCompileInputs.cache
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\obj\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.AssemblyInfoInputs.cache
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\obj\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.AssemblyInfo.cs
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\obj\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.dll
+C:\Users\ksb08\Desktop\CAD\REDCAD.Web.Identity.Api\obj\Debug\netcoreapp2.0\REDCAD.Web.Identity.Api.pdb

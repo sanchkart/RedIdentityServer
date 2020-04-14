@@ -1,0 +1,103 @@
+﻿@model LogoutViewModel
+
+@*
+    ORIGINAL
+    <div class="logout-page">
+    <div class="page-header">
+        <h1>Logout</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6">
+            <p>Would you like to logout of IdentityServer?</p>
+            <form asp-action="Logout">
+                <input type="hidden" name="logoutId" value="@Model.LogoutId"  />
+                <fieldset>
+                    <div class="form-group">
+                        <button class="btn btn-primary">Yes</button>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+</div>*@
+
+
+<!-- begin #page-loader -->
+<div id="page-loader">
+    <div class="material-loader">
+        <svg class="circular" viewBox="25 25 50 50">
+            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+        </svg>
+        <div class="message">Loading...</div>
+    </div>
+</div>
+<!-- end #page-loader -->
+<!-- begin #page-container -->
+<div id="page-container" class="fade">
+    <!-- begin login -->
+    <div class="login login-with-news-feed">
+        <!-- begin news-feed -->
+        <div class="news-feed">
+            <div class="news-image">
+                <img src="~/assets/img/bg-1.png" data-id="login-cover-image" alt="" />
+            </div>
+            <div class="news-caption">
+                <h4 class="caption-title"><i class="material-icons text-cyan pull-left m-r-5">apps</i> RED CAD Web Identität</h4>
+                <p>
+                    Nutzen Sie Ihr RED CAD Konto auch bei ausgewählten RED CAD Partner.
+                </p>
+            </div>
+        </div>
+        <!-- end news-feed -->
+        <!-- begin right-content -->
+        <div class="right-content">
+            <!-- begin login-header -->
+            <div class="login-header">
+                <div class="brand">
+                    <img src="~/assets/img/redcad-color.png" />
+                </div>
+                <div class="icon">
+                    <i class="material-icons">lock</i>
+                </div>
+            </div>
+            <!-- end login-header -->
+            <!-- begin login-content -->
+            <div class="login-content">
+                <form asp-action="Logout">
+                    <input type="hidden" name="logoutId" value="@Model.LogoutId" />
+                    <div class="m-b-30">
+                        <label>
+                            Wollen Sie wirklich aus Ihrem Konto abmelden?
+                        </label>
+                    </div>
+                    <div class="login-buttons">
+                        <button class="btn btn-primary btn-block btn-lg">Abmelden</button>
+                    </div>
+                </form>
+            </div>           
+            <!-- end login-content -->
+        </div>
+        <!-- end right-container -->
+    </div>
+    <!-- end login -->
+</div>
+<!-- end page container -->
+
+<!-- ================== BEGIN BASE JS ================== -->
+<script src="~/assets/plugins/jquery/jquery-1.9.1.min.js"></script>
+<script src="~/assets/plugins/jquery/jquery-migrate-1.1.0.min.js"></script>
+<script src="~/assets/plugins/jquery-ui/ui/minified/jquery-ui.min.js"></script>
+<script src="~/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+    <script src="assets/crossbrowserjs/html5shiv.js"></script>
+    <script src="assets/crossbrowserjs/respond.min.js"></script>
+    <script src="assets/crossbrowserjs/excanvas.min.js"></script>
+<![endif]-->
+<script src="~/assets/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+<script src="~/assets/plugins/jquery-cookie/jquery.cookie.js"></script>
+<!-- ================== END BASE JS ================== -->
+<!-- ================== BEGIN PAGE LEVEL JS ================== -->
+<script src="~/assets/js/apps.min.js"></script>
+<script src="~/assets/js/views/logout.js"></script>
+<!-- ================== END PAGE LEVEL JS ================== -->

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4a1d9a7-e6ba-4339-82bd-c394759ae36b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Config.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Config.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+              <folding>
+                <marker date="1508793547000" expanded="false" signature="6:144" ph="..." />
+                <marker date="1508793547000" expanded="true" signature="182:6182" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="215:6180" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="286:440" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="350:429" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="516:708" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="585:697" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="764:5242" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="823:5231" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="868:2669" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="1205:1344" ph="/* от этой настройки зависит размер токена, ... */" />
+                <marker date="1508793547000" expanded="true" signature="1426:1570" ph="/* белый список адресов на который клиентское приложение может попросить ... */" />
+                <marker date="1508793547000" expanded="true" signature="1606:1740" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="2135:2331" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="2468:2603" ph="/* секунд, это значение по умолчанию ... */" />
+                <marker date="1508793547000" expanded="true" signature="2704:2801" ph="/* Hybrid Flow = OpenId Connect + OAuth ... */" />
+                <marker date="1508793547000" expanded="true" signature="2845:3707" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="3485:3688" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="3800:4199" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="4120:4180" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="4292:5217" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="4711:4786" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="4845:4905" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="5291:6174" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="5352:6163" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="5399:5750" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="5586:5732" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="5797:6149" ph="{...}" />
+                <marker date="1508793547000" expanded="true" signature="5986:6131" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Quickstart/Home/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quickstart/Consent/ConsentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quickstart/Account/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Config.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Quickstart/Account/AccountOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Config.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quickstart" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quickstart" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quickstart" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grants" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quickstart" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Consent" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REDCAD.Web.Identity.Server" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quickstart" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Account" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.REDCAD.Web.Identity.Server">
+    <configuration default="false" name="REDCAD.Web.Identity.Server" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/REDCAD.Web.Identity.Server.csproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/REDCAD.Web.Identity.Server.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.REDCAD.Web.Identity.Server" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.REDCAD.Web.Identity.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a1d9a7-e6ba-4339-82bd-c394759ae36b" name="Default" comment="" />
+      <created>1508788968685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508788968685</updated>
+      <workItem from="1508788972464" duration="3023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3023000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4283186" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18530351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="/private/var/folders/v4/glmfn7lj6vjgcbzz_nbfxg8h0000gn/T/server_models_settingsDao_Before_1f460d4000556791fb914558328144ce09f9536c.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Quickstart/Home/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1508737189000" expanded="true" signature="0:175" ph="/* Copyright (c) Brock Allen &amp; Dominick Baier. All rights reserved. ... */" />
+            <marker date="1508737189000" expanded="false" signature="184:271" ph="..." />
+            <marker date="1508737189000" expanded="true" signature="312:1167" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="381:1165" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="538:598" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="636:683" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="693:762" ph="/// Shows the error page ... " />
+            <marker date="1508737189000" expanded="true" signature="825:1159" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="1046:1110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1508737189000" expanded="true" signature="6:119" ph="..." />
+            <marker date="1508737189000" expanded="true" signature="157:1031" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="184:1029" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="270:725" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="845:1023" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1508737189000" expanded="false" signature="6:63" ph="..." />
+            <marker date="1508737189000" expanded="true" signature="101:472" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="128:470" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="181:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quickstart/Account/AccountOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1508737189000" expanded="true" signature="0:175" ph="/* Copyright (c) Brock Allen &amp; Dominick Baier. All rights reserved. ... */" />
+            <marker date="1508737189000" expanded="true" signature="232:1078" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="266:1076" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="586:701" ph="/* to enable windows authentication, the host (IIS or IIS Express) also must have ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quickstart/Consent/ConsentController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="35" column="42" lean-forward="false" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <marker date="1508737189000" expanded="true" signature="0:175" ph="/* Copyright (c) Brock Allen &amp; Dominick Baier. All rights reserved. ... */" />
+            <marker date="1508737189000" expanded="false" signature="184:337" ph="..." />
+            <marker date="1508737189000" expanded="true" signature="378:2112" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="385:466" ph="/// This controller processes the consent UI ... " />
+            <marker date="1508737189000" expanded="true" signature="536:2110" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="813:925" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="935:1085" ph="/// Shows the consent screen ... " />
+            <marker date="1508737189000" expanded="true" signature="1168:1389" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="1274:1344" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="1399:1483" ph="/// Handles the consent screen postback ... " />
+            <marker date="1508737189000" expanded="true" signature="1609:2104" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="1718:1799" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="1843:1941" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="1975:2059" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quickstart/Account/AccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1544">
+          <caret line="142" column="89" lean-forward="false" selection-start-line="142" selection-start-column="89" selection-end-line="142" selection-end-column="89" />
+          <folding>
+            <marker date="1508737189000" expanded="true" signature="0:175" ph="/* Copyright (c) Brock Allen &amp; Dominick Baier. All rights reserved. ... */" />
+            <marker date="1508737189000" expanded="false" signature="184:650" ph="..." />
+            <marker date="1508737189000" expanded="true" signature="691:14694" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="698:1128" ph="/// This sample controller implements a typical login/logout/provision workflow for local and external accounts. ... " />
+            <marker date="1508737189000" expanded="true" signature="1198:14692" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="1740:2100" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="2110:2174" ph="/// Show login page ... " />
+            <marker date="1508737189000" expanded="true" signature="2257:2687" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="2452:2647" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="2697:2790" ph="/// Handle postback from username/password login ... " />
+            <marker date="1508737189000" expanded="true" signature="2929:5970" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="2974:3976" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="3177:3764" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="3216:3475" ph="/* if the user cancels, send a result back into IdentityServer as if they ... */" />
+            <marker date="1508737189000" expanded="true" signature="3785:3962" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="4013:5803" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="4177:5586" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="4406:4564" ph="/* only set explicit expiration here if user chooses &quot;remember me&quot;. ... */" />
+            <marker date="1508737189000" expanded="true" signature="4705:5019" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="4813:4996" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="5422:5524" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="5980:6083" ph="/// initiate roundtrip to external authentication provider ... " />
+            <marker date="1508737189000" expanded="true" signature="6191:8539" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="6307:6480" ph="/* windows authentication needs special handling ... */" />
+            <marker date="1508737189000" expanded="true" signature="6556:8165" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="6826:7944" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="7391:7718" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="7965:8151" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="8182:8529" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="8334:8453" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="8549:8640" ph="/// Post processing of external authentication ... " />
+            <marker date="1508737189000" expanded="true" signature="8739:12484" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="8994:9092" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="9263:9521" ph="/* try to determine the unique id of the external user (issued by the provider) ... */" />
+            <marker date="1508737189000" expanded="true" signature="9649:9772" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="9809:9892" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="9906:10065" ph="/* remove the user id claim from the claims collection and move to the userId property ... */" />
+            <marker date="1508737189000" expanded="true" signature="10225:10489" ph="/* this is where custom logic would most likely be needed to match your users from the ... */" />
+            <marker date="1508737189000" expanded="true" signature="10591:10852" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="10622:10763" ph="/* this sample simply auto-provisions new external user ... */" />
+            <marker date="1508737189000" expanded="true" signature="10921:11036" ph="/* if the external system sent a session id claim, copy it over ... */" />
+            <marker date="1508737189000" expanded="true" signature="11150:11263" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="11507:11701" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="12366:12438" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="12494:12559" ph="/// Show logout page ... " />
+            <marker date="1508737189000" expanded="true" signature="12642:13141" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="12842:13101" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="12873:13046" ph="/* if the request for logout was properly authenticated from IdentityServer, then ... */" />
+            <marker date="1508737189000" expanded="true" signature="13151:13227" ph="/// Handle logout page postback ... " />
+            <marker date="1508737189000" expanded="true" signature="13353:14686" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="13617:13899" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="14028:14633" ph="{...}" />
+            <marker date="1508737189000" expanded="true" signature="14059:14263" ph="/* build a return URL so the upstream provider will redirect back ... */" />
+            <marker date="1508737189000" expanded="true" signature="14364:14502" ph="/* this triggers a redirect to the external provider for sign-out ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding>
+            <marker date="1508793547000" expanded="false" signature="6:144" ph="..." />
+            <marker date="1508793547000" expanded="true" signature="182:6182" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="215:6180" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="286:440" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="350:429" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="516:708" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="585:697" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="764:5242" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="823:5231" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="868:2669" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="1205:1344" ph="/* от этой настройки зависит размер токена, ... */" />
+            <marker date="1508793547000" expanded="true" signature="1426:1570" ph="/* белый список адресов на который клиентское приложение может попросить ... */" />
+            <marker date="1508793547000" expanded="true" signature="1606:1740" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="2135:2331" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="2468:2603" ph="/* секунд, это значение по умолчанию ... */" />
+            <marker date="1508793547000" expanded="true" signature="2704:2801" ph="/* Hybrid Flow = OpenId Connect + OAuth ... */" />
+            <marker date="1508793547000" expanded="true" signature="2845:3707" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="3485:3688" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="3800:4199" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="4120:4180" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="4292:5217" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="4711:4786" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="4845:4905" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="5291:6174" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="5352:6163" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="5399:5750" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="5586:5732" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="5797:6149" ph="{...}" />
+            <marker date="1508793547000" expanded="true" signature="5986:6131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

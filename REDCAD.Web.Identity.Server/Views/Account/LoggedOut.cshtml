@@ -1,0 +1,112 @@
+﻿@model LoggedOutViewModel
+
+@{ 
+    // set this so the layout rendering sees an anonymous user
+    ViewData["signed-out"] = true;
+}
+
+@*
+    ORIGINAL
+    <div class="page-header logged-out">
+    <h1>
+        Logout
+        <small>You are now logged out</small>
+    </h1>
+
+    @if (Model.PostLogoutRedirectUri != null)
+    {
+        <div>
+            Click <a class="PostLogoutRedirectUri" href="@Model.PostLogoutRedirectUri">here</a> to return to the
+            <span>@Model.ClientName</span> application.
+        </div>
+    }
+
+    @if (Model.SignOutIframeUrl != null)
+    {
+        <iframe width="0" height="0" class="signout" src="@Model.SignOutIframeUrl"></iframe>
+    }
+</div>
+
+@section scripts
+{
+    @if (Model.AutomaticRedirectAfterSignOut)
+    {
+        <script src="~/js/signout-redirect.js"></script>
+    }
+}*@
+
+<!-- begin #page-loader -->
+<div id="page-loader">
+    <div class="material-loader">
+        <svg class="circular" viewBox="25 25 50 50">
+            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+        </svg>
+        <div class="message">Loading...</div>
+    </div>
+</div>
+<!-- end #page-loader -->
+<!-- begin #page-container -->
+<div id="page-container" class="fade">
+    <!-- begin login -->
+    <div class="login login-with-news-feed">
+        <!-- begin news-feed -->
+        <div class="news-feed">
+            <div class="news-image">
+                <img src="~/assets/img/bg-1.png" data-id="login-cover-image" alt="" />
+            </div>
+            <div class="news-caption">
+                <h4 class="caption-title"><i class="material-icons text-cyan pull-left m-r-5">apps</i> RED CAD Web Identität</h4>
+                <p>
+                    Nutzen Sie Ihr RED CAD Konto auch bei ausgewählten RED CAD Partner.
+                </p>
+            </div>
+        </div>
+        <!-- end news-feed -->
+        <!-- begin right-content -->
+        <div class="right-content">
+            <!-- begin login-header -->
+            <div class="login-header">
+                <div class="brand">
+                    <img src="~/assets/img/redcad-color.png" />
+                </div>
+                <div class="icon">
+                    <i class="material-icons">lock</i>
+                </div>
+            </div>
+            <!-- end login-header -->
+            <!-- begin login-content -->
+            <div class="login-content">
+                <form asp-action="Logout">
+                    <input type="hidden" name="logoutId" value="@Model.LogoutId" />
+                    <div class="m-b-30">
+                        <label>
+                            Sie wurden abgemeldet.
+                        </label>
+                    </div>
+                </form>
+            </div>
+            <!-- end login-content -->
+        </div>
+        <!-- end right-container -->
+    </div>
+    <!-- end login -->
+</div>
+<!-- end page container -->
+<!-- ================== BEGIN BASE JS ================== -->
+<script src="~/assets/plugins/jquery/jquery-1.9.1.min.js"></script>
+<script src="~/assets/plugins/jquery/jquery-migrate-1.1.0.min.js"></script>
+<script src="~/assets/plugins/jquery-ui/ui/minified/jquery-ui.min.js"></script>
+<script src="~/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+    <script src="assets/crossbrowserjs/html5shiv.js"></script>
+    <script src="assets/crossbrowserjs/respond.min.js"></script>
+    <script src="assets/crossbrowserjs/excanvas.min.js"></script>
+<![endif]-->
+<script src="~/assets/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+<script src="~/assets/plugins/jquery-cookie/jquery.cookie.js"></script>
+<!-- ================== END BASE JS ================== -->
+<!-- ================== BEGIN PAGE LEVEL JS ================== -->
+<script src="~/assets/js/apps.min.js"></script>
+<script src="~/assets/js/views/logout.js"></script>
+<!-- ================== END PAGE LEVEL JS ================== -->
+
